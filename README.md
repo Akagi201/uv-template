@@ -37,6 +37,8 @@ curl -L https://www.toptal.com/developers/gitignore/api/python > .gitignore
 * [bachelier](https://bachelier.site/) - python in browser - <https://github.com/domandlj/bachelier-back> <https://github.com/domandlj/bachelier-front>
 * [zasper](https://github.com/zasper-io/zasper) - Jupyter alternative in Go.
 * [pyodide](https://github.com/pyodide/pyodide) - python runtime in browser and node.js on webassembly
+* [deptry](https://github.com/fpgmaas/deptry) - check dependencies issues
+* [tach](https://github.com/gauge-sh/tach) - enforce dependencies
 
 ## Python Books
 
